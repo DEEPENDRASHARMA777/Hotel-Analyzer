@@ -16,8 +16,6 @@
 
 ✨ *A beautifully crafted analytical system transforming hotel data into meaningful insights.*
 
-<img src="https://i.imgur.com/WrP8ZPz.png" width="80%" />
-
 </div>
 
 ---
